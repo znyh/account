@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
-	mg "github.com/znyh/middle-end/library/pkg/database/mongodb"
+	mg "github.com/znyh/library/pkg/database/mongodb"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

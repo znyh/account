@@ -6,7 +6,7 @@ import (
 	"github.com/go-kratos/kratos/pkg/cache/redis"
 	"github.com/go-kratos/kratos/pkg/database/sql"
 	"github.com/google/wire"
-	mongodb "github.com/znyh/middle-end/library/pkg/database/mongodb"
+	mongodb "github.com/znyh/library/pkg/database/mongodb"
 	pb "github.com/znyh/proto/account"
 )
 
